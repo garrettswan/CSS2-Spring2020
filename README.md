@@ -1,4 +1,4 @@
 # CSS2-Spring2020
 
-### LectureCode will contain code used during the lecture
-### LectureVideo will have the lecture videos
+### "Lecture code" will contain code used during the lecture
+### "Lecture video" will have the lecture videos
